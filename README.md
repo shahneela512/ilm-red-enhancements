@@ -53,16 +53,3 @@ Before these revenue-generating features can be fully deployed, the following **
 
 ---
 
-## 📊 Business Roadmap: Impact vs. Effort
-
-| Phase | Feature | Effort | Business Value |
-| :--- | :--- | :--- | :--- |
-| **Phase 1** | **API Stability & Bug Fixes** | High | **Essential** |
-| **Phase 2** | **Golden Reader Referral Trial** | Low | **High ($$)** |
-| **Phase 3** | **Quote-to-Image Sharing** | Medium | **High (Growth)** |
-| **Phase 4** | **Premium Infographics** | High | **Medium ($)** |
-
----
-
-### 💡 Executive Summary:
-This roadmap transforms **ilm.red** from a document repository into a growth-focused ecosystem. By fixing current technical debt and implementing high-virality features, we can lower our marketing costs and increase the lifetime value (LTV) of every user.
